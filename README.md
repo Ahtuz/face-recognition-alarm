@@ -1,3 +1,3 @@
 # face-recognition-alarm
 
-Song used: KOTONOHOUSE - マリンスノー (feat. RANASOL)
+Song used for the alarm: KOTONOHOUSE - マリンスノー (feat. RANASOL)
